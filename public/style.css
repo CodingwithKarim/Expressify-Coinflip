@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: #ebedef;
+}
+
+button{
+    height: 20px;
+    width: 50px;
+}
+
+form{
+    display: inline;
+}
